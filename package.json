@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Proxyquire test",
   "main": "index.js",
-  "repository": "https://github.com/vamtiger/proxyquire-test.git",
+  "repository": "https://github.com/vamtiger-project/proxyquire-test.git",
   "author": "Vamtiger",
   "license": "MIT"
 }

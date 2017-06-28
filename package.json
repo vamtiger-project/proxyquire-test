@@ -1,0 +1,9 @@
+{
+  "name": "proxyquire",
+  "version": "0.0.0",
+  "description": "Proxyquire test",
+  "main": "index.js",
+  "repository": "https://github.com/vamtiger/proxyquire-test.git",
+  "author": "Vamtiger",
+  "license": "MIT"
+}
